@@ -1,0 +1,16 @@
+/*
+Theme Name:     Portfolio Custom Post Type
+Theme URI:      http://designwoop.com/2012/10/tutorial-creating-a-wordpress-custom-post-type/
+Description:    This child theme will add a basic portfolio custom post type and a basic page template to get the post type to your theme. 
+Author:         David Martin @webadelic
+Author URI:     http://www.webadelic.co.uk
+Template:       twentyeleven
+Version:        1.0
+*/
+
+@import url("../twentyeleven/style.css");
+
+.portfolio-hero img {
+	max-width: 100%;
+	height: auto;
+}
